@@ -9,4 +9,4 @@
   </a>
 </p>
 
-![snake gif](https://github.com/paolo2kk/paolo2kk/blob/output/github-contribution-grid-snake.gif)
+[![GitHub Streak](https://streak-stats.demolab.com?user=paolo2kk&theme=github-green-purple&locale=ca&card_width=700)](https://git.io/streak-stats)
