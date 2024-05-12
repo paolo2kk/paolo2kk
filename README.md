@@ -8,3 +8,5 @@
     <img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender,visualstudio,c,cpp,cs,discord" />
   </a>
 </p>
+
+![snake gif](https://github.com/paolo2kk/paolo2kk/blob/output/github-contribution-grid-snake.gif)
