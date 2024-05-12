@@ -9,4 +9,13 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=paolo2kk&theme=github-green-purple&locale=ca&card_width=700)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paolo2kk&theme=youtube-dark&locale=ca" alt="GitHub Streak" /></a>
+</p>
+
+<a href="https://github.com/paolo2kk/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=paolo2kk&theme=transparent" />
+</a>
+<a href="https://github.com/paolo2kk/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paolo2kk&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
