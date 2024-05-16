@@ -13,11 +13,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paolo2kk&theme=youtube-dark&locale=ca" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/paolo2kk/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=paolo2kk&theme=transparent" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/paolo2kk/convoychat">
